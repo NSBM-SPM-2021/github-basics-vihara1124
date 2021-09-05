@@ -8,6 +8,11 @@
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
 	integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
 	crossorigin="anonymous">
+	<style>
+        .navbar-expand-md bg-dark navbar-dark .navbar-brand,
+        .navbar-expand-md bg-dark navbar-dark .navbar-text{
+            color: blue;}
+    </style>
 </head>
 
 <body>
@@ -15,7 +20,7 @@
 
 	<nav class="navbar navbar-expand-md bg-dark navbar-dark">
 		<!-- Brand -->
-		<a class="navbar-brand" href="#">Student Management System</a>
+		<a class="navbar-brand" href="#" style="color: blue"><b>Riverdale High School</b></a>
 
 		<!-- Toggler/collapsibe Button -->
 		<button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -33,14 +38,15 @@
 	</nav>
 
 	<div class="container">
-		<div class="row">
-			<h1>List Students</h1>
+		<div class="row justify-content-center">
+			<h1>Students List</h1>
 		</div>
 
 		<div class="row">
 			<div class="col-lg-3">
 				<a th:href="@{/students/new}" class="btn btn-primary btn-sm mb-3">
 					Add Student </a>
+					<br>
 			</div>
 		</div>
 
