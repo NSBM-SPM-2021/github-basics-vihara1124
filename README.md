@@ -29,7 +29,8 @@
   <h2>Unit testing</h2>
   JUnit testing
   <br>
-  ![Untitled](https://user-images.githubusercontent.com/60148897/137382046-a8affaa3-a55e-44f3-b916-13a5fc147e79.png)
+  ![Untit](https://user-images.githubusercontent.com/60148897/137382719-c4c4fde5-9848-4099-bf8f-61aedfa1d87e.png)
+
   
   <h2>Languages used</h2>
   <ui>
