@@ -45,6 +45,10 @@
   <li>MySQL databse (server & workbench)</li>
   <li>Spring Tool Suite IDE</li>
   </ui>
+  
+  <h2>Deployment with Digital ocean cloud services</h2>
+  ![2](https://user-images.githubusercontent.com/60148897/137497807-3736d9f6-d14f-4a30-aa97-998702d8766e.png)
+
 
 
 
